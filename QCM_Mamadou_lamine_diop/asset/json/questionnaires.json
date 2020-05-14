@@ -1,0 +1,216 @@
+[
+  {
+    "questionnaire": {
+      "question": "Que signifie PHP ?",
+      "point": "2",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "programme haut puissance", "statut": "false" },
+      { "reponse": "php height programme", "statut": "false" },
+      { "reponse": "php preprocesseur", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "les langages de programmations ?",
+      "point": "3",
+      "choix": "multiple",
+      "rep": "checkbox"
+    },
+    "reponses": [
+      { "reponse": "wolof", "statut": "false" },
+      { "reponse": "php", "statut": "true" },
+      { "reponse": "francais", "statut": "false" },
+      { "reponse": "javascript", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "selectionnez les nombres parfaits?",
+      "point": "6",
+      "choix": "multiple",
+      "rep": "checkbox"
+    },
+    "reponses": [
+      { "reponse": "2", "statut": "false" },
+      { "reponse": "3", "statut": "false" },
+      { "reponse": "6", "statut": "true" },
+      { "reponse": "28", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "donnez la definition de ODC ?",
+      "point": "3",
+      "choix": "saisir",
+      "rep": "textarea"
+    },
+    "reponses": [{ "reponse": "orangeDigitalcenter", "statut": "true" }]
+  },
+  {
+    "questionnaire": {
+      "question": "quelle est la premiere ecole de condage du Senegal ?",
+      "point": "2",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "Sonatel Academy", "statut": "false" },
+      { "reponse": "Simplon.SA", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "Que signifie HTML ?",
+      "point": "4",
+      "choix": "saisir",
+      "rep": "textarea"
+    },
+    "reponses": [{ "reponse": "hypertextmakuplangage", "statut": "true" }]
+  },
+  {
+    "questionnaire": {
+      "question": "Y'a-t-il une difference entre java et javascript ?",
+      "point": "2",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "non", "statut": "false" },
+      { "reponse": "oui", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "quelles la base de la programmation web?",
+      "point": "4",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "php", "statut": "false" },
+      { "reponse": "html", "statut": "false" },
+      { "reponse": "algorithme", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "Que donne le code couleur #ffff00 ?",
+      "point": "2",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "verte", "statut": "false" },
+      { "reponse": "jaune", "statut": "true" },
+      { "reponse": "rouge", "statut": "false" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "quels sont les deux types de langage de programmation?",
+      "point": "5",
+      "choix": "multiple",
+      "rep": "checkbox"
+    },
+    "reponses": [
+      { "reponse": "langage gestuel", "statut": "false" },
+      { "reponse": "le langage serveur", "statut": "true" },
+      { "reponse": "le langage humain", "statut": "false" },
+      { "reponse": "le langage client", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "que signifie css ?",
+      "point": "2",
+      "choix": "saisir",
+      "rep": "textarea"
+    },
+    "reponses": [{ "reponse": "cascadingstylesheets", "statut": "true" }]
+  },
+  {
+    "questionnaire": {
+      "question": "Pour r\u00e9aliser un traitement de l'information, on effectue :",
+      "point": "3",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "une lecture  ", "statut": "false" },
+      {
+        "reponse": "un calcul arithm\u00e9tique et/ou logique ",
+        "statut": "true"
+      },
+      { "reponse": "un calcul", "statut": "false" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "trouver l'intrus?",
+      "point": "2",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "programmeur", "statut": "false" },
+      { "reponse": "Developpementaliste", "statut": "true" },
+      { "reponse": "bug", "statut": "false" },
+      { "reponse": "d\u00e9veloppeur", "statut": "false" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "Pour r\u00e9aliser un traitement, l'ordinateur ex\u00e9cute :",
+      "point": "3",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "des donn\u00e9es ", "statut": "false" },
+      { "reponse": "des r\u00e9sultats", "statut": "false" },
+      { "reponse": "un programme ", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "Que veut dire PDF ?",
+      "point": "6",
+      "choix": "saisir",
+      "rep": "textarea"
+    },
+    "reponses": [{ "reponse": "portabledocumentformat", "statut": "true" }]
+  },
+  {
+    "questionnaire": {
+      "question": "Est-il possible de maitriser tous les langages ?",
+      "point": "2",
+      "choix": "simple",
+      "rep": "radio"
+    },
+    "reponses": [
+      { "reponse": "oui", "statut": "false" },
+      { "reponse": "non", "statut": "true" }
+    ]
+  },
+  {
+    "questionnaire": {
+      "question": "Que signifie js ?",
+      "point": "3",
+      "choix": "saisir",
+      "rep": "textarea"
+    },
+    "reponses": [{ "reponse": "javascript", "statut": "true" }]
+  },
+  {
+    "questionnaire": {
+      "question": "Que signifie COVID19",
+      "point": "10",
+      "choix": "saisir",
+      "rep": "textarea"
+    },
+    "reponses": [{ "reponse": "coronavirus", "statut": "true" }]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "question": "qui est amdy",
+    "type": "multiple",
+    "point": "5",
+    "reponses": [
+      {
+        "reponse": "un fou",
+        "etat": "false"
+      },
+      {
+        "reponse": "un genie",
+        "etat": "true"
+      },
+      {
+        "reponse": "un con",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "qui est modou",
+    "type": "multiple",
+    "point": "5",
+    "reponses": [
+      {
+        "reponse": "un fou",
+        "etat": "true"
+      },
+      {
+        "reponse": "un genie",
+        "etat": "false"
+      },
+      {
+        "reponse": "un con",
+        "etat": "true"
+      }
+    ]
+  },
+
+  {
+    "question": "le qcm je fait dans quel langage",
+    "type": "texte",
+    "point": "45",
+    "reponses": [
+      {
+        "reponse": "php et js",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "bindal ma dof bi en wolof",
+    "type": "texte",
+    "point": "45",
+    "reponses": [
+      {
+        "reponse": "dof bi",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "lakh en wolof",
+    "type": "texte",
+    "point": "45",
+    "reponses": [
+      {
+        "reponse": "laax",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "amdy baye fall la   en wolof",
+    "type": "texte",
+    "point": "45",
+    "reponses": [
+      {
+        "reponse": "Amdi Baay Faal la",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "Les fichiers PHP ont l\u2019extension",
+    "type": "simple",
+    "point": "10",
+    "reponses": [
+      {
+        "reponse": ".yaml",
+        "etat": "false"
+      },
+      {
+        "reponse": " .html",
+        "etat": "false"
+      },
+      {
+        "reponse": ".php",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "Laquelle parmi les instructions php suivantes va stocker 55 dans la variable nbr?",
+    "type": "simple",
+    "point": "34",
+    "reponses": [
+      {
+        "reponse": "int $nbr= 55;",
+        "etat": "false"
+      },
+      {
+        "reponse": "$nbr= 55;",
+        "etat": "true"
+      },
+      {
+        "reponse": "int nbr = 55;",
+        "etat": "false"
+      }
+    ]
+  },
+  {
+    "question": "L'op\u00e9rateur || correspond",
+    "type": "simple",
+    "point": "20",
+    "reponses": [
+      {
+        "reponse": "au ET logique",
+        "etat": "false"
+      },
+      {
+        "reponse": "au OU logique",
+        "etat": "true"
+      },
+      {
+        "reponse": "n'existe pas",
+        "etat": "false"
+      }
+    ]
+  },
+  {
+    "question": "comment gagner de l'argent",
+    "type": "multiple",
+    "point": "34",
+    "reponses": [
+      {
+        "reponse": "voler",
+        "etat": "false"
+      },
+      {
+        "reponse": "travailler",
+        "etat": "true"
+      },
+      {
+        "reponse": "parisFoot",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "qui suis je ",
+    "type": "simple",
+    "point": "43",
+    "reponses": [
+      {
+        "reponse": "un fou",
+        "etat": "false"
+      },
+      {
+        "reponse": "un d\u00e9veleppeur",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "google.com",
+    "type": "multiple",
+    "point": "87",
+    "reponses": [
+      {
+        "reponse": "as",
+        "etat": "true"
+      },
+      {
+        "reponse": "sdh",
+        "etat": "false"
+      }
+    ]
+  },
+  {
+    "question": "sdfhj",
+    "type": "multiple",
+    "point": "8",
+    "reponses": [
+      {
+        "reponse": "dsffh",
+        "etat": "true"
+      },
+      {
+        "reponse": "dsfh",
+        "etat": "true"
+      }
+    ]
+  },
+  {
+    "question": "entre modou et becay qui est le plus fort",
+    "type": "simple",
+    "point": "12",
+    "reponses": [
+      {
+        "reponse": "modou",
+        "etat": "false"
+      },
+      {
+        "reponse": "becay",
+        "etat": "false"
+      },
+      {
+        "reponse": "meme niveau",
+        "etat": "true"
+      }
+    ]
+  }
+]
